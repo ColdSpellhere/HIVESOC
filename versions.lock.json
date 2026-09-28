@@ -1,0 +1,17 @@
+{
+  "format": 1,
+  "components": {
+    "napcatbot": {
+      "repository": "ColdSpellhere/HIVESOC-NapCatBot",
+      "commit": "2d794f6463749da55efb1c0e07b996488f1fdabc"
+    },
+    "web": {
+      "repository": "ColdSpellhere/HIVESOC-Web",
+      "commit": "d5a8d71fd108ef71a70127321b816ebf739c565a"
+    },
+    "algorithm": {
+      "repository": "ColdSpellhere/HIVESOC-Algorithm",
+      "commit": "24fa44318e8e1c89c6d6bd1b118736ab52349381"
+    }
+  }
+}

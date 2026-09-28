@@ -1,0 +1,9 @@
+[submodule "napcatbot"]
+	path = napcatbot
+	url = git@github.com:ColdSpellhere/HIVESOC-NapCatBot.git
+[submodule "web"]
+	path = web
+	url = git@github.com:ColdSpellhere/HIVESOC-Web.git
+[submodule "algorithm"]
+	path = algorithm
+	url = git@github.com:ColdSpellhere/HIVESOC-Algorithm.git
