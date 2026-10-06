@@ -3,15 +3,15 @@
   "components": {
     "napcatbot": {
       "repository": "ColdSpellhere/HIVESOC-NapCatBot",
-      "commit": "f2afd057084fdff6abb52d2ee31904a938392c3d"
+      "commit": "f8b617bd55d7c148c349fdcca0a0e133dae2f028"
     },
     "web": {
       "repository": "ColdSpellhere/HIVESOC-Web",
-      "commit": "9f21bd8f64cba79e012f6797f80d3de4971575de"
+      "commit": "2df1b99c29d70c85cb35b81856bbcf231e63982b"
     },
     "algorithm": {
       "repository": "ColdSpellhere/HIVESOC-Algorithm",
-      "commit": "24fa44318e8e1c89c6d6bd1b118736ab52349381"
+      "commit": "a9e2400111c85d407c033916201b63a5179d5288"
     }
   }
 }
