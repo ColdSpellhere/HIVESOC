@@ -7,7 +7,7 @@
     },
     "web": {
       "repository": "ColdSpellhere/HIVESOC-Web",
-      "commit": "e88fc1dc1ed850eff261c69ddac3665ba3f2d5f8"
+      "commit": "447ec1d7a916c103f2ab0a24022513a5e6f05917"
     },
     "algorithm": {
       "repository": "ColdSpellhere/HIVESOC-Algorithm",
