@@ -26,7 +26,7 @@ def main():
         if mode == "160000":
             links[path] = sha
         else:
-            assert path in {"README.md", ".gitignore", ".gitmodules", "versions.lock.json"} or path.startswith(("docs/", "tools/", ".github/")), f"unexpected public file: {path}"
+            assert path in {"README.md", "AGENTS.md", ".gitignore", ".gitmodules", "versions.lock.json"} or path.startswith(("docs/", "tools/", ".github/")), f"unexpected public file: {path}"
             assert mode == "100644", f"unexpected file mode: {path}"
     assert set(links) == set(EXPECTED)
     for path, repo in EXPECTED.items():
