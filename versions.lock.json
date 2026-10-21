@@ -3,11 +3,11 @@
   "components": {
     "napcatbot": {
       "repository": "ColdSpellhere/HIVESOC-NapCatBot",
-      "commit": "c8c5ab3dbab0a539a0b30941cd5c4236ecf944f5"
+      "commit": "dc0eb752376b8a790c7b947ab1d17148b6276f0d"
     },
     "web": {
       "repository": "ColdSpellhere/HIVESOC-Web",
-      "commit": "328efc26e9e500ed48c749523679756202f0494f"
+      "commit": "f359036071d9b80b3202391f4064cbbf7e0c5f4f"
     },
     "algorithm": {
       "repository": "ColdSpellhere/HIVESOC-Algorithm",
